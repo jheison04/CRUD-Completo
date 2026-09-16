@@ -1,0 +1,12 @@
+- `[x]` Configuración Inicial y Permisos
+- `[x]` Capa de Datos (Data Layer)
+- `[x]` Capa de Dominio (Domain Layer)
+- `[x]` Capa de UI (Interfaz de Usuario) - Búsqueda por ID
+- `[x]` Capa de UI - Acciones CRUD Explícitas
+- `[x]` Reorganización Panel de Control CRUD
+    - `[x]` Renombrar botones en `ProductItem.kt` (Eliminar/Editar)
+    - `[x]` Renombrar botones en `ProductCard.kt` (Eliminar/Editar)
+    - `[x]` Rediseñar `ProductScreen.kt` (Mover acciones a panel superior)
+- `[x]` Verificación Final
+    - `[x]` Build y Sync
+    - `[x]` Probar botones de CRUD en ambas vistas
